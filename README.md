@@ -11,8 +11,8 @@
 **Term:** Fall 2020\
 **Mode:** Online lectures with choice of online or in-person discussion sections.\
 **Credits:** 3\
-**Schedule:** Lecture (online), MW 11:15-12:05\
-Sections: (*in-person*) F 8:00-8:50am (section #202, Upson 102) and 9:10-10:00am (#201, Upson 202); (*online*) F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
+**Lecture:** Online, MW 11:15-12:05\
+**Sections:**: *In-person*: F 8:00-8:50am (section #202, Upson 102) and 9:10-10:00am (#201, Upson 202); *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
 **Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).\
 **Online sessions and resources:** See the **Mechanics** section below.
 
@@ -104,6 +104,11 @@ If you experience harassment in any form, or if you would like to discuss your e
 #### Academic integrity
 
 Each student in this course is expected to abide by the Cornell University [Code of Academic Integrity](http://theuniversityfaculty.cornell.edu/academic-integrity/). Any work submitted by a student in this course for academic credit will be the student's own work unless specifically and explicitly permitted otherwise.
+
+Using other people's code is an important part of programming but, for group projects, the code should be substantially the work of the group members (except for standard libraries). Any code used in projects that was not written by the group members should be placed in separate files and clearly labeled with their source
+URLs. If you have benefitted from online resources such as examples or StackOverflow answers, list the URLs in comments in your own code, even if you did not directly copy anything.
+
+Project work that relates to your other classes or research is encouraged, but you may not recycle assignments. There must be no doubt that the work you turn in for this class was done for this class. Whn in doubt, consult with me during office hours.
 
 #### Disabilities
 
