@@ -12,7 +12,9 @@
 **Mode:** Online lectures with choice of online or in-person discussion sections.\
 **Credits:** 3\
 **Lecture:** Online, MW 11:30-12:20\
-**Sections:**: *In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202); *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
+**Sections:**\
+*In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202)\
+*Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
 **Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).\
 **Online sessions and resources:** See the **Mechanics** section below.
 
@@ -22,7 +24,7 @@ If the course is full at registration time, you may add yourself to the [waitlis
 
 ### Summary
 
-A course on the uses of text mining and other data-intensive techniques to assist analysis of textual humanities materials. Special emphasis on literary and historical documents. Intended for students with programming experience equivalent to CS 1110 (Intro to computing using Python).
+A course on the uses of text mining and other data-intensive techniques to assist analysis of textual humanities materials. Special emphasis on literary and historical documents. Intended for students with programming experience equivalent to [CS 1110](https://classes.cornell.edu/browse/roster/FA20/class/CS/1110) (Intro to computing using Python).
 
 ### Description
 
@@ -92,7 +94,7 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 
 #### COVID information
 
-This is an unusual semster. Our goal is to keep one another safe, to cover as much material as possible under the circumstances, and to adapt to the circumstances as we find them.
+This is an unusual semster. Our goal is to keep one another safe, to cover as much material as possible, and to adapt to the circumstances as we find them.
 
 Students and staff will adhere to the [behavioral compact](https://covid.cornell.edu/students/behavioral-compact/) at all times. For in-person sections, you must remain in your assigned seat. If you do not have an assigned seat, *do not come to your in-person section*; instead, contact course staff for instructions on joining a remote section until you are cleared to return.
 
@@ -102,9 +104,9 @@ If you feel unwell in any way, or if you are not cleared through the daily check
 
 #### Harassment and respect
 
-All students are entitled to respect from course staff and from their fellow students. All course staff are entitled to respect from students and from fellow staff members. Violations of this principle, whether large or small, will not be tolerated.
+All students are entitled to respect from course staff and from their fellow students. All staff are entitled to respect from students and from fellow staff members. Violations of this principle, whether large or small, will not be tolerated.
 
-Respect means that your ideas are taken seriously, that you feel welcome in the classroom, and that are treated as a full, co-equal member of the class. Harassment describes any action, intentional or otherwise, that abridges the respect owed to every member of the class.
+Respect means that your ideas are taken seriously, that you feel welcome in class settings (including in study groups and online fora), and that you are treated as a full, co-equal member of the class. Harassment describes any action, intentional or otherwise, that abridges the respect owed to every member of the class.
 
 If you experience harassment in any form, or if you would like to discuss your experience in the class, please see me in office hours or contact me by email. The university also has reporting and counseling resources available, including those for [sexual harassment](https://gradschool.cornell.edu/policies/sexual-misconduct-including-harassment/) and for [other bias incidents](https://gradschool.cornell.edu/diversity-inclusion/reporting-bias/).
 
@@ -112,16 +114,15 @@ If you experience harassment in any form, or if you would like to discuss your e
 
 Each student in this course is expected to abide by the Cornell University [Code of Academic Integrity](http://theuniversityfaculty.cornell.edu/academic-integrity/). Any work submitted by a student in this course for academic credit will be the student's own work unless specifically and explicitly permitted otherwise.
 
-Using other people's code is an important part of programming but, for group projects, the code should be substantially the work of the group members (except for standard libraries). Any code used in projects that was not written by the group members should be placed in separate files and clearly labeled with their source
-URLs. If you have benefitted from online resources such as examples or StackOverflow answers, list the URLs in comments in your own code, even if you did not directly copy anything.
+Using other people's code is an important part of programming but, for group projects, the code should be substantially the work of the group members (except for standard libraries). Any code used in projects that was not written by the group members should be placed in separate files and clearly labeled with their source URLs. If you have benefitted from online resources such as StackOverflow, list the URLs in comments in your own code, even if you did not directly copy anything.
 
-Project work that relates to your other classes or research is encouraged, but you may not recycle assignments. There must be no doubt that the work you turn in for this class was done for this class. Whn in doubt, consult with me during office hours.
+Project work that relates to your other classes or research is encouraged, but you may not recycle assignments. There must be no doubt that the work you turn in for this class was done for this class. When in doubt, consult with me during office hours.
 
 #### Disabilities
 
 Every student's access is important to us. If you have, or think you may have, a disability, please contact Student Disability Services for a confidential discussion: [sds_cu@cornell.edu](mailto:sds_cu@cornell.edu), 607-254-4545, or [sds.cornell.edu](https://sds.cornell.edu/). 
 
-* Please request your accommodation letter early in the semester, or as soon as you become registered with [Student Disability Services](https://sds.cornell.edu/) (SDS), so that we have adequate time to arrange your approved academic accommodations.
+* Please request any accommodation letter early in the semester, or as soon as you become registered with [Student Disability Services](https://sds.cornell.edu/) (SDS), so that we have adequate time to arrange your approved academic accommodations.
 * Once SDS approves your accommodation letter, it will be emailed to you and to me. Please follow up with me to discuss the necessary logistics of your accommodations.
 * If you are approved for exam accommodations, please consult with me at least two weeks before the scheduled exam date to confirm the testing arrangements.
 * If you experience any access barriers in this course, such as with printed content, graphics, online materials, or any communication barriers, reach out to me and/or your SDS counselor right away.
