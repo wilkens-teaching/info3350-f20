@@ -40,7 +40,7 @@ We will use Zoom for online meetings, Canvas to distribute restricted readings a
 
 ### Work and grading
 
-Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (10%), reading responses (10%), a take-home final exam or optional final project (20%), and class participation (10%). *You must achieve a passing grade in each of these components to pass the course.*
+Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (10%), reading responses (10% in sum, see Canvas for details), a take-home final exam or optional final project (20%), and class participation (10%). *You must achieve a passing grade in each of these components to pass the course.*
 
 **Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (to be scheduled according to our shared availability once classes begin).
 
@@ -60,26 +60,26 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 
 **All assignments and dates are subject to change.** Additional readings are likely to be added after week 7.
 
-**Course materials and problem sets** will be linked here as they become available. Problem sets will be distributed no later than the Friday indicated on the syllabus and are due the following Tuesday evening unless otherwise indicated.
+**Course materials and problem sets** will be linked here as they become available. *Problem sets will be distributed no later than the Friday indicated on the syllabus and are due the following Tuesday evening unless otherwise indicated.*
 
 | Week | Monday | Wednesday | Friday|
 |:---|:---|:---|:---|
 | 1 (8/31) | **No class** | Introduction | Setup and dummy problem set |
 | 2 (9/7) | **Tokenization and counting.**<br/>Reading: [Sentiment-aware tokenization](http://sentiment.christopherpotts.net/tokenizing.html)<br />Optional: Jurafsky and Martin, ["Lexicons for Sentiment, Affect, and Connotation"](https://web.stanford.edu/~jurafsky/slp3/21.pdf) | Readings:<ul><li>Ramsay, "Algorthmic Criticism" (Canvas)</li><li>Healy, ["Fuck Nuance"](https://kieranhealy.org/files/papers/fuck-nuance.pdf)</li><li>Rambsy, [#TheJayZMixtape](https://iopn.library.illinois.edu/scalar/the-jay-z-mixtape/index)</li></ul> | Problem set: Word clouds |
 | 3 (9/14) | **Sentiment scoring.**<br />Reading: [Syuzhet package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html) | Readings:<ul><li>Reagan et al., ["Emotional Arcs of Stories ..."](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0093-1)</li><li>Davis, ["Physical Traits that Define Men and Women in Literature"](https://pudding.cool/2020/07/gendered-descriptions/)</li></ul> | Problem set: Sentiment and gender |
-| 4 (9/21) | **Vectorization, distance metrics, and regression.**<br />Readings: <ul><li>[Five popular similarity metrics](https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/)</li><li>[Introduction to regression](https://dss.princeton.edu/online_help/analysis/regression_intro.htm)</li></ul>| Readings:<ul><li>Moretti, "Slaughterhouse of Literature" (Canvas)</li><li>Evert et al., "Understanding and Explaining Delta Measures" (Canvas)</li></ul>| Problem set: Document similarity|
+| 4 (9/21) | **Vectorization, distance metrics, and regression.**<br />Readings: <ul><li>[Five popular similarity metrics](https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/)</li><li>[Introduction to regression](https://dss.princeton.edu/online_help/analysis/regression_intro.htm)</li></ul>| Readings:<ul><li>Moretti, "Slaughterhouse of Literature" (Canvas)</li><li>Evert et al., "Understanding and Explaining Delta Measures" (Canvas)</li></ul>**Response 1 due** no later than this session. | Problem set: Document similarity|
 | 5 (9/28)| **Clustering.**<br />Reading: Grimmer and Stewart, ["Text as Data"](https://doi.org/10.1093/pan/mps028)| Reading: Allison et al., ["Quantitative Formalism"](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf)| Problem set: Clustering with `scikit-learn`|
-| 6 (10/5)| **Classification I.**<br />Reading: Underwood, ["Understanding Genre in a Collection of a Million Volumes"](https://doi.org/10.6084/m9.figshare.1281251.v1)| Readings:<ul><li>Mauch et al., ["The Evolution of Popular Music"](http://rsos.royalsocietypublishing.org/content/2/5/150081)</li><li>Norvig, ["Chomsky and the Two Cultures of Statistical Learning"](http://www.norvig.com/chomsky.html)</li></ul>| Mini-project: Classifying novels|
+| 6 (10/5)| **Classification I.**<br />Reading: Underwood, ["Understanding Genre in a Collection of a Million Volumes"](https://doi.org/10.6084/m9.figshare.1281251.v1)| Readings:<ul><li>Mauch et al., ["The Evolution of Popular Music"](http://rsos.royalsocietypublishing.org/content/2/5/150081)</li><li>Norvig, ["Chomsky and the Two Cultures of Statistical Learning"](http://www.norvig.com/chomsky.html)</li></ul>**Response 2 due** no later than this session.| Mini-project: Classifying novels|
 | 7 (10/12) | **Classification II,** including regularization and dimension reduction.| **No class** (fall break) | Mini-project: Classifying novels (continued)|
 | 8 (10/19) | **Feature importance and explainability.**<br />| Reading: Piper, "Characterization" (Canvas)| Mini-project: Classifying novels (continued)|
 | 9 (10/26)| **Hypothesis testing and confidence intervals.**<br />| Reading: TBA| Problem set: Statistical testing|
 | 10 (11/2)| **NLP and feature expansion.**<br />| Reading: Evans and Wilkens, ["Nation, Ethnicity, and the Geography of British Fiction"](https://culturalanalytics.org/article/11037-nation-ethnicity-and-the-geography-of-british-fiction-1880-1940)| Problem set: Extended features|
-| 11 (11/9) | **Topic models.**<br />Reading: Boyd-Graber, Hu, and Mimno, [*Applications of Topic Models*](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf), chapters 1, 4, and 6. | Reading: Barron et al., ["Individuals, Institutions, and Innovation in the Debates of the French Revolution"](https://www.pnas.org/content/115/18/4607) | Open discussion, no new assignments|
+| 11 (11/9) | **Topic models.**<br />Reading: Boyd-Graber, Hu, and Mimno, [*Applications of Topic Models*](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf), chapters 1, 4, and 6. | Reading: Barron et al., ["Individuals, Institutions, and Innovation in the Debates of the French Revolution"](https://www.pnas.org/content/115/18/4607)<br />**Response 3 due** no later than this session. | Open discussion, no new assignments|
 | 12 (11/16)|**No classes this week (semifinals).**|-----|-----|
 | 13 (11/23)|**No classes this week (Thanksgiving).**|-----|-----|
 | 14 (11/30)|**Word embeddings.**<br />Reading: [Ruder, "On Word Embeddings"](https://ruder.io/word-embeddings-1/index.html)|Reading: Nelson, "Leveraging the Alignment between Machine Learning and Intersectionality" (Canvas)| Problem set: Word embeddings|
 | 15 (12/7)|**Deep learning.**<br />And/or matters arising.|Reading: To be determined by class interest.|Review and project work.|
-| 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.|**No class**|
+| 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this dicussion.|**No class**|
 
 ### Policies
 
