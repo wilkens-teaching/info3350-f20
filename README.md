@@ -12,7 +12,7 @@
 **Mode:** Online lectures with choice of online or in-person discussion sections.\
 **Credits:** 3\
 **Lecture:** Online, MW 11:30-12:20\
-**Sections:**: *In-person*: F 8:00-8:50am (section #202, Upson 102) and 9:10-10:00am (#201, Upson 202); *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
+**Sections:**: *In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202); *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
 **Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).\
 **Online sessions and resources:** See the **Mechanics** section below.
 
@@ -36,7 +36,14 @@ The primary objective of the course is to build proficiency in text analysis and
 
 ### Mechanics
 
-We will use Zoom for online meetings, Canvas to distribute restricted readings and to collect reading response posts, CMS to collect problem sets and other code work, and Campuswire for Q&A. Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/20174).
+Most of the work for the course will be conducted online. We will use:
+
+* Zoom for online meetings
+* Canvas to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
+* CMS to collect problem sets and other code work
+* Campuswire for Q&A. 
+
+Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/20174).
 
 ### Work and grading
 
