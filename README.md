@@ -9,14 +9,16 @@
 **Undergrad TAs:** Jannie Li, Haley Mathews, and LeAnn McDowall
 
 **Term:** Fall 2020\
-**Mode:** Online lectures with choice of online or in-person discussion sections.\
 **Credits:** 3\
+**Mode:** Online lectures with choice of online or in-person discussion sections.
+
 **Lecture:** Online, MW 11:30-12:20\
 **Sections:**\
 *In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202)\
 *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
-**Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).\
-**Online sessions and resources:** See the **Mechanics** section below.
+**Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
+
+**Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
 
 ### Waitlist
 
@@ -40,10 +42,10 @@ The primary objective of the course is to build proficiency in text analysis and
 
 Most of the work for the course will be conducted online. We will use:
 
-* Zoom for online meetings
-* Canvas to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
-* CMS to collect problem sets and other code work
-* Campuswire for Q&A. 
+* **Zoom** for online meetings
+* **Canvas** to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
+* **CMS** to collect problem sets and other code work
+* **Campuswire** for Q&A. 
 
 Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/20174).
 
@@ -57,7 +59,7 @@ Grades will be based on weekly problem sets (50% in sum), a midterm mini-project
 
 **There is no required textbook for the course.** All assigned readings will be available online, either through the open web or via Canvas. See the **Schedule** below for details.
 
-There are three texbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
+There are three textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
 
 * Guttag. [*Introduction to Computation and Programming Using Python (2nd ed.)*](https://www.amazon.com/dp/0262529629/). Useful for students who need or want a refresher on basic concepts in Python.
 * Bengfort, Bilbro, and Ojeda. [*Applied Text Analysis with Python*](https://www.amazon.com/dp/1491963042). A *very* applied book intended for working developers who want to learn the standard Python stack for text analysis.
@@ -74,7 +76,7 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 | Week | Monday | Wednesday | Friday|
 |:---|:---|:---|:---|
 | 1 (8/31) | **No class** | Introduction | Setup and dummy problem set |
-| 2 (9/7) | **Tokenization and counting.**<br/>Reading: [Sentiment-aware tokenization](http://sentiment.christopherpotts.net/tokenizing.html)<br />Optional: Jurafsky and Martin, ["Lexicons for Sentiment, Affect, and Connotation"](https://web.stanford.edu/~jurafsky/slp3/21.pdf) | Readings:<ul><li>Ramsay, "Algorthmic Criticism" (Canvas)</li><li>Healy, ["Fuck Nuance"](https://kieranhealy.org/files/papers/fuck-nuance.pdf)</li><li>Rambsy, [#TheJayZMixtape](https://iopn.library.illinois.edu/scalar/the-jay-z-mixtape/index)</li></ul> | Problem set: Word clouds |
+| 2 (9/7) | **Tokenization and counting.**<br/>Reading: [Sentiment-aware tokenization](http://sentiment.christopherpotts.net/tokenizing.html)<br />Optional: Jurafsky and Martin, ["Lexicons for Sentiment, Affect, and Connotation"](https://web.stanford.edu/~jurafsky/slp3/21.pdf) | Readings:<ul><li>Ramsay, "Algorithmic Criticism" (Canvas)</li><li>Healy, ["Fuck Nuance"](https://kieranhealy.org/files/papers/fuck-nuance.pdf)</li><li>Rambsy, [#TheJayZMixtape](https://iopn.library.illinois.edu/scalar/the-jay-z-mixtape/index)</li></ul> | Problem set: Word clouds |
 | 3 (9/14) | **Sentiment scoring.**<br />Reading: [Syuzhet package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html) | Readings:<ul><li>Reagan et al., ["Emotional Arcs of Stories ..."](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0093-1)</li><li>Davis, ["Physical Traits that Define Men and Women in Literature"](https://pudding.cool/2020/07/gendered-descriptions/)</li></ul> | Problem set: Sentiment and gender |
 | 4 (9/21) | **Vectorization, distance metrics, and regression.**<br />Readings: <ul><li>[Five popular similarity metrics](https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/)</li><li>[Introduction to regression](https://dss.princeton.edu/online_help/analysis/regression_intro.htm)</li></ul>| Readings:<ul><li>Moretti, "Slaughterhouse of Literature" (Canvas)</li><li>Evert et al., "Understanding and Explaining Delta Measures" (Canvas)</li></ul>**Response 1 due** no later than this session. | Problem set: Document similarity|
 | 5 (9/28)| **Clustering.**<br />Reading: Grimmer and Stewart, ["Text as Data"](https://doi.org/10.1093/pan/mps028)| Reading: Allison et al., ["Quantitative Formalism"](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf)| Problem set: Clustering with `scikit-learn`|
@@ -88,19 +90,25 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 | 13 (11/23)|**No classes this week (Thanksgiving).**|-----|-----|
 | 14 (11/30)|**Word embeddings.**<br />Reading: [Ruder, "On Word Embeddings"](https://ruder.io/word-embeddings-1/index.html)|Reading: Nelson, "Leveraging the Alignment between Machine Learning and Intersectionality" (Canvas)| Problem set: Word embeddings|
 | 15 (12/7)|**Deep learning.**<br />And/or matters arising.|Reading: To be determined by class interest.|Review and project work.|
-| 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this dicussion.|**No class**|
+| 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this discussion.|**No class**|
 
 ### Policies
 
 #### COVID information
 
-This is an unusual semster. Our goal is to keep one another safe, to cover as much material as possible, and to adapt to the circumstances as we find them.
+This is an unusual semester. Our goal is to keep one another safe, to cover as much material as possible, and to adapt to the circumstances as we find them.
 
 Students and staff will adhere to the [behavioral compact](https://covid.cornell.edu/students/behavioral-compact/) at all times. For in-person sections, you must remain in your assigned seat. If you do not have an assigned seat, *do not come to your in-person section*; instead, contact course staff for instructions on joining a remote section until you are cleared to return.
 
 If you feel unwell in any way, or if you are not cleared through the daily check process, *do not come to your in-person section.*
 
-*Participation* is much more important than mere *attendance*. Your grade will not suffer if you make the wise decision to stay home when you might infect others.
+#### Attendance
+
+This is a synchronous class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, attendance (virtual and physical, depending on the mode of your section) is required. 
+
+If you need to miss a class meeting, please complete the [absence form](https://forms.gle/dvhW6doyDSeDXp418) *before  the meeting in question* and watch the recorded video of the session you missed once it is available on Canvas. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time. Late work will not be accepted except by prior arrangement and in truly exceptional circumstances.
+
+**Note:** *Participation* is much more important than *attendance*. Your grade will not suffer if you make the wise decision to stay home when you might infect others.
 
 #### Harassment and respect
 
