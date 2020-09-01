@@ -42,7 +42,7 @@ The primary objective of the course is to build proficiency in text analysis and
 
 Most of the work for the course will be conducted online. We will use:
 
-* **Zoom** for online meetings
+* **Zoom** for online meetings and office hours
 * **Canvas** to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
 * **CMS** to collect problem sets and other code work
 * **Campuswire** for Q&A. 
@@ -51,7 +51,7 @@ Links and detailed info about each of these are available via the [course Canvas
 
 ### Work and grading
 
-Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (10%), reading responses (10% in sum, see Canvas for details), a take-home final exam or optional final project (20%), and class participation (10%). *You must achieve a passing grade in each of these components to pass the course.*
+Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum, see [Canvas for details](https://canvas.cornell.edu/courses/20174/discussion_topics/145601)), a take-home final exam or optional final project (20%), and class participation (5%). *You must achieve a passing grade in each of these components to pass the course.*
 
 **Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (to be scheduled according to our shared availability once classes begin).
 
