@@ -59,11 +59,12 @@ Grades will be based on weekly problem sets (50% in sum), a midterm mini-project
 
 **There is no required textbook for the course.** All assigned readings will be available online, either through the open web or via Canvas. See the **Schedule** below for details.
 
-There are three textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
+There are four textbooks that may be useful for students who wish to consult them. **They are not required and most students will not need them.**
 
 * Guttag. [*Introduction to Computation and Programming Using Python (2nd ed.)*](https://www.amazon.com/dp/0262529629/). Useful for students who need or want a refresher on basic concepts in Python.
 * Bengfort, Bilbro, and Ojeda. [*Applied Text Analysis with Python*](https://www.amazon.com/dp/1491963042). A *very* applied book intended for working developers who want to learn the standard Python stack for text analysis.
 * Jurafsky and Martin. [*Speech and Language Processing (3rd ed.)*](https://web.stanford.edu/~jurafsky/slp3/). A detailed textbook focusing on many of the core topics in natural language processing. Probably more advanced than most students will require, but a great resource for those who want more technical depth. The linked version is the openly available draft of the third edition. The published [second edition is also available for sale](https://www.amazon.com/dp/0131873210).
+* Jockers and Thalken. [*Text Analysis with R for Students of Literature (2nd ed.)*](https://www.amazon.com/dp/B086KZL3DR). The closest thing to an ideal textbook for this class, but in R.
 
 ### Schedule
 
