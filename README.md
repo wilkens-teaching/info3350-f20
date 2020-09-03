@@ -16,6 +16,7 @@
 **Sections:**\
 *In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202)\
 *Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
+*Additional grad*: F 12:20-1:10pm (online)\
 **Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
 
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
@@ -43,6 +44,7 @@ The primary objective of the course is to build proficiency in text analysis and
 Most of the work for the course will be conducted online. We will use:
 
 * **Zoom** for online meetings and office hours
+* **GitHub** to distribute lecture materials, code, and problem sets. The current version of the syllabus is always on GutHub, too.
 * **Canvas** to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
 * **CMS** to collect problem sets and other code work
 * **Campuswire** for Q&A. 
@@ -53,7 +55,7 @@ Links and detailed info about each of these are available via the [course Canvas
 
 Grades will be based on weekly problem sets (50% in sum), a midterm mini-project (15%), reading responses (10% in sum, see [Canvas for details](https://canvas.cornell.edu/courses/20174/discussion_topics/145601)), a take-home final exam or optional final project (20%), and class participation (5%). *You must achieve a passing grade in each of these components to pass the course.*
 
-**Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (to be scheduled according to our shared availability once classes begin).
+**Graduate students** (enrolled in 6350) must complete a final project in place of the final exam and are strongly encouraged to attend an additional weekly section meeting for 6350 (Fridays, 12:20-1:10pm).
 
 ### Texts and readings
 
@@ -72,7 +74,7 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 
 **All assignments and dates are subject to change.** Additional readings are likely to be added after week 7.
 
-**Course materials and problem sets** will be linked here as they become available. *Problem sets will be distributed no later than the Friday indicated on the syllabus and are due the following Tuesday evening unless otherwise indicated.*
+**Course materials and problem sets** will be linked here as they become available. *Problem sets will be distributed (via GitHub) no later than the Friday indicated on the syllabus and are due the following Tuesday evening (via CMS) unless otherwise indicated.*
 
 | Week | Monday | Wednesday | Friday|
 |:---|:---|:---|:---|
@@ -103,13 +105,19 @@ Students and staff will adhere to the [behavioral compact](https://covid.cornell
 
 If you feel unwell in any way, or if you are not cleared through the daily check process, *do not come to your in-person section.*
 
-#### Attendance
+#### Attendance and late work
 
-This is a synchronous class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, attendance (virtual and physical, depending on the mode of your section) is required. 
+This is a synchronous class of moderate size that will make frequent use of class time to discuss readings and to debate different approaches to academic inquiry. For this reason, **attendance (virtual and physical, depending on the mode of your section) is required**. 
 
-If you need to miss a class meeting, please complete the [absence form](https://forms.gle/dvhW6doyDSeDXp418) *before  the meeting in question* and watch the recorded video of the session you missed once it is available on Canvas. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time. Late work will not be accepted except by prior arrangement and in truly exceptional circumstances.
+Students in highly displaced time zones and who have received individual permission are excused from attending the synchronous version of the Monday and Wednesday lectures. These students should watch the recorded lectures as soon as they are available and post any questions to Campuswire.
+
+If you need to miss a class meeting, please complete the [absence form](https://forms.gle/dvhW6doyDSeDXp418) *before the meeting in question* and watch the recorded video of the session you missed once it is available on Canvas. If you miss section on Friday, a recording may not be available. Consult with your section leader for appropriate steps. In every case, assigned work remains due at the appointed time. 
 
 **Note:** *Participation* is much more important than *attendance*. Your grade will not suffer if you make the wise decision to stay home when you might infect others.
+
+**Late work** is accepted subject to a limit of **five total slip days** for the semester. You may submit one assignment up to five days late, or five assignments each one day late, or any other combination that does not exceed five late days in total. The slip day policy *does not* apply to the reading responses, which may not be submitted late, since they are tied to in-class activities. 
+
+If you expect to miss a deadline or to be absent for an extended period due to truly exceptional circumstances, contact me as far in advance as possible so that we can discuss potential accommodations.
 
 #### Harassment and respect
 
