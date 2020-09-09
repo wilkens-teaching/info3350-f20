@@ -10,14 +10,12 @@
 
 **Term:** Fall 2020\
 **Credits:** 3\
-**Mode:** Online lectures with choice of online or in-person discussion sections.
+**Mode:** Online synchronous
 
-**Lecture:** Online, MW 11:30-12:20\
-**Sections:**\
-*In-person*: F 8:00-8:50am (section #202, Upson 142) and 9:10-10:00am (#201, Upson 202)\
-*Online*: F 10:20-11:10am (#205) and 11:15am-12:05pm (x2, #203 and #204).\
-*Additional grad*: F 12:20-1:10pm (online)\
-**Office hours:** W 3-4pm and F 3-5pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
+**Lecture:** MW 11:30-12:20\
+**Sections:** F 10:20-11:10am and 11:15am-12:05pm\
+*Additional grad section*: F 12:20-1:10pm\
+**Office hours:** W 3-4pm, Th 9-10am, F 3-4pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
 
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
 
@@ -41,7 +39,7 @@ The primary objective of the course is to build proficiency in text analysis and
 
 ### Mechanics
 
-Most of the work for the course will be conducted online. We will use:
+Almost all of the work for the course will be conducted online. We will use:
 
 * **Zoom** for online meetings and office hours
 * **GitHub** to distribute lecture materials, code, and problem sets. The current version of the syllabus is always on GutHub, too.
