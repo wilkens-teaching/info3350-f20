@@ -15,7 +15,7 @@
 **Lecture:** MW 11:30-12:20\
 **Sections:** F 10:20-11:10am and 11:15am-12:05pm\
 *Additional grad section*: F 12:20-1:10pm\
-**Office hours:** W 3-4pm, Th 9-10am, F 3-4pm. For details, see [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
+**Office hours:** See [Canvas](https://canvas.cornell.edu/courses/20174/pages/zoom-and-other-links).
 
 **Online sessions and resources:** See the [**Mechanics**](#mechanics) section below.
 
