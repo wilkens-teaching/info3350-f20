@@ -92,6 +92,7 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 | 14 (11/30)|**Word embeddings.**<br />Reading: [Ruder, "On Word Embeddings"](https://ruder.io/word-embeddings-1/index.html)|Reading: Nelson, "Leveraging the Alignment between Machine Learning and Intersectionality" (Canvas)| Problem set 11: Word embeddings|
 | 15 (12/7)|**Deep learning.**<br />And/or matters arising.|Reading: To be determined by class interest.|Review and project work.|
 | 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this discussion.|**No class**|
+| |**Final exam** in the form of a take-home project due on a date to be determined by the University Registrar (between 12/17 and 12/21) | | |
 
 ### Policies
 
