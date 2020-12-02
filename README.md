@@ -92,7 +92,14 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 | 14 (11/30)|**Word embeddings.**<br />Reading: [Ruder, "On Word Embeddings"](https://ruder.io/word-embeddings-1/index.html)|Reading: Nelson, "Leveraging the Alignment between Machine Learning and Intersectionality" (Canvas)| Problem set 11: Word embeddings|
 | 15 (12/7)|**Deep learning.**<br />And/or matters arising.|Reading: To be determined by class interest.|Review and project work.|
 | 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this discussion.|**No class**|
-| |**Final exam** in the form of a take-home project due on a date to be determined by the University Registrar (between 12/17 and 12/21) | | |
+
+### Final exam
+
+A **final exam** in the form of a take-home project is due on **Saturday, 12/19, at 5:00pm EST** via CMS. The exam will be released via GitHub on Saturday, 12/12, at 5:00pm and announced on Campuswire at the same time. You may work on it as much or as little as you like during the intervening week.
+
+**Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
+
+**Undergraduates** (enrolled in 3350) may elect to complete a project in lieu of the exam. If you elect to take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
 
 ### Policies
 
