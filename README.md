@@ -90,7 +90,7 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 | 12 (11/16)|**No classes this week (semifinals).**|-----|-----|
 | 13 (11/23)|**No classes this week (Thanksgiving).**|-----|-----|
 | 14 (11/30)|**Word embeddings.**<br />Reading: [Ruder, "On Word Embeddings"](https://ruder.io/word-embeddings-1/index.html)|Reading: Nelson, "Leveraging the Alignment between Machine Learning and Intersectionality" (Canvas)| Problem set 11: Word embeddings|
-| 15 (12/7)|**Deep learning.**<br />And/or matters arising.|Reading: To be determined by class interest.|Review and project work.|
+| 15 (12/7)|**Deep learning and social media data.**<br />Readings:<ul><li>**Optional:** Jurafsky and Martin, ch. 7: [Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)</li><li>**Optional:** Jurafsky and Martin, ch. 10: [Encoder-Decoder Models, Attention, and Contextual Embeddings](https://web.stanford.edu/~jurafsky/slp3/10.pdf) (chapter under revision, incomplete)|Readings: <ul><li>**Required:** Antoniak, ["Narrative Paths and Negotiation of Power in Birth Stories"](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)</li><li>**Optional:** Dym and Fiesler, ["Ethical and Privacy Considerations for Research Using Online Fandom Data"](https://journal.transformativeworks.org/index.php/twc/article/view/1733)</li</ul>|Review and project work.|
 | 16 (12/14)|**Wrap-up and flex time**|Summary discussion and conclusions.<br />**Response 4 due** no later than this discussion.|**No class**|
 
 ### Final exam
