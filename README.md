@@ -99,7 +99,7 @@ A **final exam** in the form of a take-home project is due on **Saturday, 12/19,
 
 **Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
 
-**Undergraduates** (enrolled in 3350) may elect to complete a project in lieu of the exam. If you elect to take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
+**Undergraduates** (enrolled in 3350) may elect to complete a [project in lieu of the exam](https://github.com/wilkens-teaching/info3350-f20/blob/master/final_exam/final_project_guidelines.ipynb). If you elect to take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
 
 ### Policies
 
