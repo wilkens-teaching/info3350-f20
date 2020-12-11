@@ -95,11 +95,11 @@ In general, Monday lectures will introduce new technical material. Wednesday ses
 
 ### Final exam
 
-A **final exam** in the form of a take-home project is due on **Saturday, 12/19, at 5:00pm EST** via CMS. The exam will be released via GitHub on Saturday, 12/12, at 5:00pm and announced on Campuswire at the same time. You may work on it as much or as little as you like during the intervening week.
-
-**Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
+A **final exam** in the form of a take-home project is due on **Saturday, 12/19, at 5:00pm EST** via CMS. [The exam](https://github.com/wilkens-teaching/info3350-f20/blob/master/final_exam/final_exam.ipynb) is now available in the `final_exam` directory. You may work on it -- alone, not in a group -- as much or as little as you like until the due date.
 
 **Undergraduates** (enrolled in 3350) may elect to complete a [project in lieu of the exam](https://github.com/wilkens-teaching/info3350-f20/blob/master/final_exam/final_project_guidelines.ipynb). If you elect to take this route, you may work in a group of up to three students. The expected amount of work on the project will be scaled by the number of group members. Except in unusual circumstances, all group members will receive the same grade.
+
+**Graduate students** (enrolled in 6350) **must** complete an independent project in place of the final exam. 
 
 ### Policies
 
