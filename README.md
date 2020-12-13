@@ -42,7 +42,7 @@ The primary objective of the course is to build proficiency in text analysis and
 Almost all of the work for the course will be conducted online. We will use:
 
 * **Zoom** for online meetings and office hours
-* **GitHub** to distribute lecture materials, code, and problem sets. The current version of the syllabus is always on GutHub, too.
+* **GitHub** to distribute lecture materials, code, and problem sets. The current version of the syllabus is always on GitHub, too.
 * **Canvas** to distribute restricted readings, to collect reading response posts, and to distribute video recordings of the lectures
 * **CMS** to collect problem sets and other code work
 * **Campuswire** for Q&A. 
